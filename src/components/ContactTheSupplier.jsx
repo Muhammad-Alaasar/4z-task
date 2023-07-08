@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function ContactTheSuoolier() {
+export default function ContactTheSupplier() {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log(`Message Subject: ${e.target.messageSubject.value}

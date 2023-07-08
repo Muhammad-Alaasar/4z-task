@@ -3,7 +3,7 @@ import './App.css';
 import ProductInfo from './components/ProductInfo';
 import SupplierProducts from './components/SupplierProducts';
 import RelatedSuppliers from './components/RelatedSupplier';
-import ContactTheSuoolier from './components/ContactTheSuoolier';
+import ContactTheSupplier from './components/ContactTheSupplier';
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
       <ProductInfo />
       <RelatedSuppliers />
       <SupplierProducts />
-      <ContactTheSuoolier />
+      <ContactTheSupplier />
     </>
   );
 }

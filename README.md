@@ -1,26 +1,23 @@
-# Part of Speech
+# Product view Page
 
->#### This an interactive activity that helps the students practice categorizing a set of words according to their part of speech.
+>#### This a task to measure my skills to build pages with React JS.
 ###### by _Muhammad Al-Aasar_
 
 ## 
 ## Technologies
 #### The project uses some Programming Language and Web tools to work Properly:
 
-- Node JS
 - React JS
 - JavaScript
-- Express Framework
-- CSS
+- Bootstrap
 - HTML (JSX)
-- Some Other Dependencies
-[ React Hooks, React Router, File System, Cors ]
+- React Hooks
 
 ## The Usage
 
 > To use it, you must be having NodeJS installed.
 
-- After you download this project, Extract it and open the backend folder, and in the terminal do it
+- After you download this project, Extract it and open the project folder, and in the terminal do it
 
 #### 1.Install the dependencies:
 
@@ -28,20 +25,7 @@
 npm i
 ```
 
-#### 2.Run Backend Server
-
-```sh
-node app
-```
-
-- Now you run a server, After that open the frontend folder, and in the terminal do it
-
-#### 1.Install the dependencies:
-```sh
-npm i
-```
-
-#### 2.Run Frontend Server
+#### 2.Run a Project
 
 ```sh
 npm start
